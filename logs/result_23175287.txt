@@ -1,0 +1,2560 @@
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpf0h2Hx/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpxTzn74/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp0vHRZS/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpNGSnUA/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpt5qhVY/ne_50m_land.shp' 
+Reading layer `ne_50m_land' from data source 
+  using driver `ESRI Shapefile'
+  `/scratch/slurm_tmpdir/job_23175287/RtmpbC0mZV/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpDjb0zL/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp7TCSu2/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpMQdTB1/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpRvxyBy/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp8m9eLl/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpTicaBg/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpFEEFnV/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpQ1YdqT/ne_50m_land.shp' 
+Reading layer `ne_50m_land' from data source 
+  using driver `ESRI Shapefile'
+  `/scratch/slurm_tmpdir/job_23175287/RtmpQ2mmA1/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpBlrEui/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpjhcdre/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpg5YOcW/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp995lVl/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpw22aas/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpSgPQQM/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp3k7W1z/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpjtfOr9/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpQs9pM6/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpU05lOg/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+  `/scratch/slurm_tmpdir/job_23175287/RtmpRRt2zS/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp1L9pk5/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpw6jkU4/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpSOKx7k/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpWWsYbj/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp4nyT5T/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpJ1s5Hj/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpQn5V9K/ne_50m_land.shp' 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp8RTSFo/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Reading layer `ne_50m_land' from data source 
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+  `/scratch/slurm_tmpdir/job_23175287/RtmpvxwNCJ/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpP6Lmpy/ne_50m_land.shp' 
+Simple feature collection with 1420 features and 3 fields
+  using driver `ESRI Shapefile'
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Reading layer `ne_50m_land' from data source 
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpz0cSR6/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Dimension:     XY
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpNvKog7/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmptg6WkF/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpIUFo0a/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpOzfo1A/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpyKXj8r/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpAlbNbD/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpXLyTLR/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp6nzImA/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpUVNs4C/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpGVKTYU/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpD27pva/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Geodetic CRS:  WGS 84
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpZ2bWvk/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Geodetic CRS:  WGS 84
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp6adSRU/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpeaZwzl/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpskJKep/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpyJmfjc/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpLHNqrE/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpHM2Ne3/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpUhzxax/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpK8pDhi/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpWMEdUi/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpJ6giZV/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmppfdSL7/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpnVrrSW/ne_50m_land.shp' 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpX9jXL5/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpkLWRsU/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpLZuoh7/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpPd5rey/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpA5oKbB/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpbSodQk/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpHVu1om/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+Geometry type: MULTIPOLYGON
+  `/scratch/slurm_tmpdir/job_23175287/RtmpKDFaLt/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp329e1w/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpvuKbQv/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpqhWl8s/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpUj7DMr/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpwJCBmI/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpyLWZYp/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp2GC6dc/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpQVjrdA/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp3kXcGj/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpnVZm4l/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpo9qkV8/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpf7WmgN/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpH1Kcjc/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpNYzxzz/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp1sFV7W/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpBU9THP/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp8BeLvP/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpk8jWKg/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpi3JXx1/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp8lDsKE/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpoOCAVe/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpUvAnVA/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp32K4Z6/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp8lqvBE/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmprZmWm0/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpY5gG3z/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp629Ndp/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpIgh2lv/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpJaH56n/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpWx82WV/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp986pQW/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpDpC6x5/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmponZhE7/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpmoiIN3/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpD6DkDI/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpIfaiFh/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpt7oQke/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp95ach1/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpHHua6P/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpi6qzOc/ne_50m_land.shp' 
+Reading layer `ne_50m_land' from data source 
+  using driver `ESRI Shapefile'
+  `/scratch/slurm_tmpdir/job_23175287/RtmpJqTXOF/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpEsSXeq/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpz2FwPG/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpcApD8P/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpnxXJoX/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+  `/scratch/slurm_tmpdir/job_23175287/RtmplSAsDT/ne_50m_land.shp' 
+Reading layer `ne_50m_land' from data source 
+  using driver `ESRI Shapefile'
+  `/scratch/slurm_tmpdir/job_23175287/RtmpnlpaKu/ne_50m_land.shp' 
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpjK4cQQ/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpCPWSif/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpKM9wkX/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpoqGWy2/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpcNbsAl/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpfxCGrm/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Reading layer `ne_50m_land' from data source 
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+  `/scratch/slurm_tmpdir/job_23175287/RtmpevL5uq/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpTwldkL/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Reading layer `ne_50m_land' from data source 
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp85JxUO/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpsnKAuY/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpIhWG5O/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpUe3qKY/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+Dimension:     XY
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpj5h7uN/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmplfZsd3/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpXFA76y/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpJ2Xcyp/ne_50m_land.shp' 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpwB5VpV/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpdA94Xn/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpCVsMOy/ne_50m_land.shp' 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpqyd2w1/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpw51uoo/ne_50m_land.shp' 
+Reading layer `ne_50m_land' from data source 
+  using driver `ESRI Shapefile'
+  `/scratch/slurm_tmpdir/job_23175287/RtmpATwDKH/ne_50m_land.shp' 
+Simple feature collection with 1420 features and 3 fields
+  using driver `ESRI Shapefile'
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpnlNlPS/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp16NnoD/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpcoMnLE/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmphGx7rc/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpSdbt2n/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpTv9bLP/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Simple feature collection with 1420 features and 3 fields
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geodetic CRS:  WGS 84
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpeU2XRr/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpEad3ms/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpCI0R3W/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpU5SykG/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp9r1f2g/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geodetic CRS:  WGS 84
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpKZrRWf/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpZx7Fbn/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp8cZX0c/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpZBoLTt/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Simple feature collection with 1420 features and 3 fields
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+Reading layer `ne_50m_land' from data source 
+Dimension:     XY
+  `/scratch/slurm_tmpdir/job_23175287/RtmpLc89xX/ne_50m_land.shp' 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpmfeozj/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+  using driver `ESRI Shapefile'
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpsG7Equ/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpZKmu5H/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpkYcGsz/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Geodetic CRS:  WGS 84
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Geodetic CRS:  WGS 84
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpedwjkw/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Dimension:     XY
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geometry type: MULTIPOLYGON
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Reading layer `ne_50m_land' from data source 
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpi8VuD6/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Reading layer `ne_50m_land' from data source 
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+  `/scratch/slurm_tmpdir/job_23175287/RtmpRQGG4a/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Dimension:     XY
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geodetic CRS:  WGS 84
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpr74j8G/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geodetic CRS:  WGS 84
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpysTWdR/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpv6eA7x/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpyH4wYx/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpfqIxOC/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+Reading layer `ne_50m_land' from data source 
+Geodetic CRS:  WGS 84
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+  `/scratch/slurm_tmpdir/job_23175287/RtmpgXvLZj/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+  `/scratch/slurm_tmpdir/job_23175287/RtmpP2ttJj/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Geodetic CRS:  WGS 84
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpdMwKz0/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpLMsXDZ/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmplKdwHp/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpGndLuu/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmps07il3/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpmsKGUL/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+  `/scratch/slurm_tmpdir/job_23175287/RtmppGYkWg/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpCuN2Xp/ne_50m_land.shp' 
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+  using driver `ESRI Shapefile'
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpvIGRoC/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+  `/scratch/slurm_tmpdir/job_23175287/RtmpnNM492/ne_50m_land.shp' 
+Dimension:     XY
+  using driver `ESRI Shapefile'
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Simple feature collection with 1420 features and 3 fields
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpoRRbgF/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp6V6ILr/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpCuT6gJ/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geodetic CRS:  WGS 84
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpqCrlHq/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp7tISxL/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmphC1kmo/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+Dimension:     XY
+  `/scratch/slurm_tmpdir/job_23175287/RtmpMYkhrJ/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp0k07pT/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp9CYgQ3/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpNrpodV/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+  `/scratch/slurm_tmpdir/job_23175287/RtmpwOhqiY/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Geodetic CRS:  WGS 84
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpq9sM6U/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpty9VmB/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpCVIPb8/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpVs2oM1/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmplku9OV/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpjMIq91/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpYUsXR9/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpNcMcdJ/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpxQqbnK/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpdi1Za1/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Geodetic CRS:  WGS 84
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpZUSwVa/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp3No1Jm/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpWk1Muh/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpRbuP03/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpGL7URD/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp7jFAr4/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpZm6sdz/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpDv3dYd/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpv3qyWQ/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpF7P3i8/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp16CFaj/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpWoCyW6/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpl6FmFi/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpVyt8nX/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpWXmLw4/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpzQWFIo/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmplxHXAK/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpvJzyx0/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmppF6kj3/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpagOreO/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpbUo3yB/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpP6HkQZ/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Dimension:     XY
+Geometry type: MULTIPOLYGON
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp2i1sFE/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpDwTNpH/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpLCfJqn/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp4NuIM0/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmps5dnHr/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpxmaUtC/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpv2EpP3/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+Geodetic CRS:  WGS 84
+  `/scratch/slurm_tmpdir/job_23175287/RtmppG6dv9/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpx475AH/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp7XlsVO/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpmaY44F/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpYdGex8/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp4A3Hsi/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpxOQkAr/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp8UMTBZ/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpTqswUz/ne_50m_land.shp' 
+Simple feature collection with 1420 features and 3 fields
+  using driver `ESRI Shapefile'
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpqHg7Iv/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpUlfWkQ/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmphojExh/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpZjDctn/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpI5zqdp/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpvCJgA9/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpgVBf6g/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Reading layer `ne_50m_land' from data source 
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+  `/scratch/slurm_tmpdir/job_23175287/RtmpkjsS5z/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpRr82vK/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpt8mPf7/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Dimension:     XY
+Geometry type: MULTIPOLYGON
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Reading layer `ne_50m_land' from data source 
+Geometry type: MULTIPOLYGON
+  `/scratch/slurm_tmpdir/job_23175287/RtmpaRFR0d/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Reading layer `ne_50m_land' from data source 
+Geometry type: MULTIPOLYGON
+  `/scratch/slurm_tmpdir/job_23175287/RtmpvqF9Uw/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpLjlSft/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpsZfcw1/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp630A3l/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpHu6Z3j/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpegRzZK/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpcaFkm0/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmppHdTbL/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpbmsbBA/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpf8zgRo/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpo7d1YV/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpPEDVSk/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpMoCR6D/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpeeUmWe/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpreji78/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp5ekBlF/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmphzQG5X/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpGSQQqZ/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpKzuLSg/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp9QbdPk/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpjhiweB/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpubRlJA/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpYiG32k/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpXNbdIJ/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpoQE6pN/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpr12m2i/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmphb74FG/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpmaL1Yu/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpFOdt0F/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpxzzCW7/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpVM7Cy6/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Reading layer `ne_50m_land' from data source 
+Geometry type: MULTIPOLYGON
+  `/scratch/slurm_tmpdir/job_23175287/RtmpzmRYKl/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmplZwdTg/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpFfzgTL/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpNO7ha0/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpIDdYPZ/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpuRfESw/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpRLZGNy/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpwxK2fu/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpgEWxKa/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpaSccss/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpTAOiPE/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpo0Pg5t/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Geodetic CRS:  WGS 84
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpB7GY1i/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpZUpueh/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpceqtQc/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpMbw6X0/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpP7KRGH/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpYxsHkm/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpffafnV/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpKUe9Hv/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpIoEzV5/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpGwzsDq/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp0LAPp9/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpboaNHN/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmp3FVv6q/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/Rtmpe72LAf/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpRpFhMj/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpSQ4O3Y/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmphCvnHV/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpMq17yd/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpNPNdS5/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpBs83m9/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpADQtZy/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpHUAytV/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpphreW6/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpRNkUOL/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpvVGxxn/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpHomexM/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpphIqU2/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpwFOybT/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175287/RtmpmXuqie/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84

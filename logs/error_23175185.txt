@@ -1,0 +1,157 @@
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.4.4     ✔ tibble    3.2.1
+✔ ggplot2   3.4.4     ✔ tibble    3.2.1
+✔ lubridate 1.9.3     ✔ tidyr     1.3.1
+✔ lubridate 1.9.3     ✔ tidyr     1.3.1
+✔ purrr     1.0.2     
+✔ purrr     1.0.2     
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.4.4     ✔ tibble    3.2.1
+✔ lubridate 1.9.3     ✔ tidyr     1.3.1
+✔ purrr     1.0.2     
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.4.4     ✔ tibble    3.2.1
+✔ lubridate 1.9.3     ✔ tidyr     1.3.1
+✔ purrr     1.0.2     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+
+Attaching package: ‘arrow’
+Attaching package: ‘arrow’
+
+
+The following object is masked from ‘package:lubridate’:
+The following object is masked from ‘package:lubridate’:
+
+
+    duration
+    duration
+
+
+The following object is masked from ‘package:utils’:
+The following object is masked from ‘package:utils’:
+
+
+    timestamp
+    timestamp
+
+
+
+Attaching package: ‘arrow’
+
+
+Attaching package: ‘arrow’
+
+The following object is masked from ‘package:lubridate’:
+
+    duration
+
+The following object is masked from ‘package:utils’:
+
+    timestamp
+
+The following object is masked from ‘package:lubridate’:
+
+    duration
+
+The following object is masked from ‘package:utils’:
+
+    timestamp
+
+trying URL 'https://naturalearth.s3.amazonaws.com/50m_physical/ne_50m_land.zip'
+trying URL 'https://naturalearth.s3.amazonaws.com/50m_physical/ne_50m_land.zip'
+trying URL 'https://naturalearth.s3.amazonaws.com/50m_physical/ne_50m_land.zip'
+trying URL 'https://naturalearth.s3.amazonaws.com/50m_physical/ne_50m_land.zip'
+Content type 'application/zip' length 457183 bytes (446 KB)
+Content type 'application/zip' length 457183 bytes (446 KB)
+Content type 'application/zip' length 457183 bytes (446 KB)
+Content type 'application/zip' length 457183 bytes (446 KB)
+==================================================
+downloaded 446 KB
+
+==================================================
+downloaded 446 KB
+
+==================================================
+downloaded 446 KB
+
+Warning message:
+attribute variables are assumed to be spatially constant throughout all geometries 
+Warning message:
+attribute variables are assumed to be spatially constant throughout all geometries 
+Warning message:
+attribute variables are assumed to be spatially constant throughout all geometries 
+==================================================
+downloaded 446 KB
+
+Warning message:
+attribute variables are assumed to be spatially constant throughout all geometries 
+Rows: 3138 Columns: 6
+Rows: 3138 Columns: 6
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr (1): Sample_ID
+dbl (5): Latitude, Longitude, Date_BC_AD_Median, MDS_C1, MDS_C2
+Rows: 3138 Columns: 6
+Rows: 3138 Columns: 6
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr (1): Sample_ID
+dbl (5): Latitude, Longitude, Date_BC_AD_Median, MDS_C1, MDS_C2
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr (1): Sample_ID
+dbl (5): Latitude, Longitude, Date_BC_AD_Median, MDS_C1, MDS_C2
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr (1): Sample_ID
+dbl (5): Latitude, Longitude, Date_BC_AD_Median, MDS_C1, MDS_C2
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Constructing search fields
+Running models
+Constructing search fields
+Running models
+Constructing search fields
+Running models
+Constructing search fields
+Running models
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 23175185.1 ON uc2n265 CANCELLED AT 2024-02-20T10:35:57 ***
+slurmstepd: error: *** JOB 23175185 ON uc2n265 CANCELLED AT 2024-02-20T10:35:57 ***
+slurmstepd: error: *** STEP 23175185.0 ON uc2n265 CANCELLED AT 2024-02-20T10:35:57 ***

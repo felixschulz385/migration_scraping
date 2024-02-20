@@ -1,0 +1,47 @@
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175185/RtmpdLnsCf/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175185/Rtmp3raYwT/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Geodetic CRS:  WGS 84
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175185/Rtmpajxr7a/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+Reading layer `ne_50m_land' from data source 
+  `/scratch/slurm_tmpdir/job_23175185/RtmpiiRP78/ne_50m_land.shp' 
+  using driver `ESRI Shapefile'
+Simple feature collection with 1420 features and 3 fields
+Geometry type: MULTIPOLYGON
+Dimension:     XY
+Bounding box:  xmin: -180 ymin: -89.99893 xmax: 180 ymax: 83.59961
+Geodetic CRS:  WGS 84
+
+============================= JOB FEEDBACK =============================
+
+NodeName=uc2n265
+Job ID: 23175185
+Cluster: uc2
+User/Group: tu_zxobe27/tu_tu
+State: CANCELLED (exit code 0)
+Nodes: 1
+Cores per node: 4
+CPU Utilized: 01:01:11
+CPU Efficiency: 48.66% of 02:05:44 core-walltime
+Job Wall-clock time: 00:31:26
+Memory Utilized: 1.42 GB (estimated maximum)
+Memory Efficiency: 17.80% of 8.00 GB (2.00 GB/core)

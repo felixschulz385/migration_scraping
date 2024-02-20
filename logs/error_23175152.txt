@@ -1,0 +1,122 @@
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.4.4     ✔ tibble    3.2.1
+✔ lubridate 1.9.3     ✔ tidyr     1.3.1
+✔ purrr     1.0.2     
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.4.4     ✔ tibble    3.2.1
+✔ lubridate 1.9.3     ✔ tidyr     1.3.1
+✔ purrr     1.0.2     
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.4.4     ✔ tibble    3.2.1
+✔ lubridate 1.9.3     ✔ tidyr     1.3.1
+✔ purrr     1.0.2     
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.4.4     ✔ tibble    3.2.1
+✔ lubridate 1.9.3     ✔ tidyr     1.3.1
+✔ purrr     1.0.2     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘arrow’
+
+The following object is masked from ‘package:lubridate’:
+
+    duration
+
+
+Attaching package: ‘arrow’
+
+The following object is masked from ‘package:utils’:
+
+    timestamp
+
+The following object is masked from ‘package:lubridate’:
+
+    duration
+
+The following object is masked from ‘package:utils’:
+
+    timestamp
+
+
+Attaching package: ‘arrow’
+
+The following object is masked from ‘package:lubridate’:
+
+    duration
+
+The following object is masked from ‘package:utils’:
+
+    timestamp
+
+
+Attaching package: ‘arrow’
+
+The following object is masked from ‘package:lubridate’:
+
+    duration
+
+The following object is masked from ‘package:utils’:
+
+    timestamp
+
+trying URL 'https://naturalearth.s3.amazonaws.com/50m_physical/ne_50m_land.zip'
+trying URL 'https://naturalearth.s3.amazonaws.com/50m_physical/ne_50m_land.zip'
+trying URL 'https://naturalearth.s3.amazonaws.com/50m_physical/ne_50m_land.zip'
+trying URL 'https://naturalearth.s3.amazonaws.com/50m_physical/ne_50m_land.zip'
+Content type 'application/zip' length 457183 bytes (446 KB)
+Content type 'application/zip' length 457183 bytes (446 KB)
+Content type 'application/zip' length 457183 bytes (446 KB)
+Content type 'application/zip' length 457183 bytes (446 KB)
+==================================================
+downloaded 446 KB
+
+==================================================
+downloaded 446 KB
+
+==================================================
+downloaded 446 KB
+
+==================================================
+downloaded 446 KB
+
+Warning message:
+attribute variables are assumed to be spatially constant throughout all geometries 
+Warning message:
+attribute variables are assumed to be spatially constant throughout all geometries 
+Warning message:
+attribute variables are assumed to be spatially constant throughout all geometries 
+Warning message:
+attribute variables are assumed to be spatially constant throughout all geometries 
+Error: object 'research_land_outline_3035' not found
+Execution halted
+Error: object 'research_land_outline_3035' not found
+Execution halted
+Error: object 'research_land_outline_3035' not found
+Execution halted
+Error: object 'research_land_outline_3035' not found
+Execution halted
+srun: error: uc2n272: tasks 0-1: Exited with exit code 1
+srun: error: uc2n272: tasks 0-1: Exited with exit code 1
