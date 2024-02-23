@@ -1,20 +1,15 @@
 #remotes::install_github('nevrome/mobest')
 
-# read in command line arguments
-args <- commandArgs(trailingOnly = TRUE)
-
-print("################")
-print(paste0("### INIT SPLIT ", args[[1]], " ###"))
-print("################")
-
-#args <- c(1)
-
 # Load necessary libraries
 library("tidyverse")    # For data manipulation and visualization
 library("arrow")        # For reading and writing data in different formats
 library("mobest")       # For spatial and temporal modeling
+#library("Rmpi")         # For parallel processing
 library("future")       # For parallel processing
 library("furrr")        # For parallel processing
+
+sysinf <- Sys.getenv("SLURM_TASKS_PER_NODE")
+ncores <- str_extract_all(sysinf, "\\d+")[[1]]
 
 ###
 # Parameters
@@ -73,10 +68,6 @@ samples_projected <- samples_basic %>%
   ) %>%
   sf::st_drop_geometry()
 
-# subset to the current split
-indices <- ((args[[1]] - 1) * (nrow(samples_projected) %/% 4) + 1):ifelse(args[[1]] == 4, nrow(samples_projected), (args[[1]] * (nrow(samples_projected) %/% 4)))
-samples_projected <- samples_projected[indices,]
-
 # prepare input data for interpolation
 ind <- mobest::create_spatpos(
   id = samples_projected$Sample_ID,
@@ -101,6 +92,14 @@ kernset <- mobest::create_kernset(
 )
 
 run_search <- function(index){
+
+    files <- list.files("data")
+    if (paste0(samples_projected$Sample_ID[[index]], ".parquet") %in% files) {
+        print(paste0("*** Skipping index: ", index, " ***"))
+        return()
+    }
+
+    print(paste0("*** Processing index: ", index, " ***"))
 
     search_samples <- samples_projected %>% slice(index)
 
@@ -132,11 +131,39 @@ run_search <- function(index){
 
 }
 
-# # multicore plan
-cl = parallel::makeCluster(40)
+# # Initialize MPI
+# mpi.spawn.Rslaves(nslaves=mpi.universe.size()-1)
+# on.exit(mpi.close.Rslaves())
+
+# # Get MPI rank and size
+# rank <- mpi.comm.rank()
+# size <- mpi.comm.size()
+
+# print(paste0("*** Rank: ", rank))
+# print(paste0("*** Size: ", size))
+
+# total_records <- nrow(samples_projected)
+
+# # Calculate workload distribution
+# records_per_process <- ceiling(total_records / size)
+# start_index <- (rank - 1) * records_per_process + 1
+# end_index <- min(rank * records_per_process, total_records)
+
+# # Process records assigned to this process
+# for (record_index in start_index:end_index) {
+#     run_search(record_index)
+# }
+
+# # Finalize MPI
+# mpi.barrier()
+# mpi.close.Rslaves()
+# mpi.quit()
+
+# multicore plan
+cl = parallelly::makeClusterMPI(as.double(ncores[[1]]) * as.double(ncores[[2]]) - 1)
 plan(cluster, workers = cl)
 
 # execution
-#start <- Sys.time()
 future_walk(1:nrow(samples_projected), run_search)
-#Sys.time() - start
+  
+stopCluster(cl)

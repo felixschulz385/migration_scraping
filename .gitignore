@@ -1,0 +1,4 @@
+*.parquet
+*.pdf
+*.csv
+/logs
